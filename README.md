@@ -1,6 +1,6 @@
 # Company Z Employee Management System
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Start MySQL**: Make sure your local MySQL server is running (port 3306).
 2. **Execute the App**:
@@ -13,9 +13,9 @@
      java -cp bin:lib/mysql-connector-j.jar Driver
      ```
 
----
+----------
 
-## 📋 Database Setup
+## Database Setup
 If setting up for the first time, run this command in your terminal to initialize and seed the database:
 ```bash
 mysql -u root -p < db_setup.sql
