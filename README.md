@@ -4,11 +4,11 @@
 
 1. **Start MySQL**: Make sure your local MySQL server is running (port 3306).
 2. **Execute the App**:
-   * If you are in the **parent directory** (`Software Development - CTW`):
+   * If you are in the **parent directory**:
      ```bash
      java -cp finalproject/bin:finalproject/lib/mysql-connector-j.jar Driver
      ```
-   * If you are **inside the `finalproject` folder**:
+   * If you are **inside the folder**:
      ```bash
      java -cp bin:lib/mysql-connector-j.jar Driver
      ```
