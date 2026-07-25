@@ -356,7 +356,7 @@ To verify that core business and database operations perform correctly and prese
 ### Prerequisites
 1. **Java Development Kit (JDK)**: Ensure JDK 8 or higher is installed (`javac` and `java` available in terminal).
 2. **MySQL Server**: Ensure MySQL is running on `localhost:3306`.
-3. **Credentials**: A database user `root` with password `Pepper.2005@` is required, or update `DBConnection.java` with your specific credentials.
+3. **Credentials**: A database user `root` with password `` is required, or update `DBConnection.java` with your specific credentials.
 
 ### Step 1: Database Initialization
 Open your terminal and run the setup script to initialize the database:
