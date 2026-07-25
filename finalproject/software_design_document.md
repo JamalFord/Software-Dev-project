@@ -361,7 +361,7 @@ To verify that core business and database operations perform correctly and prese
 ### Step 1: Database Initialization
 Open your terminal and run the setup script to initialize the database:
 ```bash
-mysql -u root -p'Pepper.2005@' < finalproject/db_setup.sql
+mysql -u root -p < finalproject/db_setup.sql
 ```
 
 ### Step 2: Compile the Java Application
