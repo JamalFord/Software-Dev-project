@@ -1,7 +1,7 @@
 # Software Design Document (SWDD): Company Z Employee Management System
 
 **Course**: Software Development - CTW  
-**Team**: Dream Team
+**Team**: DreamWorks
 **Deliverable**: Final Software Design Document (Section B)  
 **Date**: July 19, 2026  
 
